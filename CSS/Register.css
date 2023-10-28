@@ -1,0 +1,118 @@
+
+
+nav{
+   
+    
+
+
+  /*  */
+}
+body{
+
+  background-color: rgba(213, 204, 184, 0.419);
+ 
+
+}
+
+
+
+UL{
+ background-color: rgba(207, 185, 157, 0.784);
+ list-style: NONE;
+ display: flex;
+
+}
+
+li{
+padding: 10px;
+font-family: 'Courier New', Courier, monospace;
+font-size: larger;
+
+
+}
+
+a{
+  text-decoration: none;
+    
+}
+h2{
+  padding: 25px;
+  text-align: center;
+  background-color: rgba(126, 76, 25, 0.227);
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+
+  
+}
+
+.desgin_back_ground_image{
+ background-image: url('regsiter_logo.png');
+ background-repeat: no-repeat;
+height:20cm;
+
+
+
+}
+
+
+
+
+.register-form {
+  max-width: 500px;
+  background-color: rgba(141, 136, 97, 0);
+  margin: 0 auto;
+  color: rgb(0, 0, 0);
+  border-radius: 10px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+ 
+}
+
+.register-form label {
+  display: block;
+  margin-bottom: 105x;
+}
+
+.register-form input[type="text"],
+.register-form input[type="date"],
+.register-form input[type="tel"],
+
+.register-form input[type="email"] {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 10px;
+  border: 1px solid z#000000;
+  border-radius: 7px;
+  box-sizing: border-box;
+}
+
+.register-form input[type="submit"] {
+  background-color: #000000;
+  color: white;
+  padding: 10px 15px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  margin-left: 200px;
+}
+
+
+
+
+ul.ul {
+  
+  list-style-type: none;
+  
+
+}
+
+li.li {
+  display: inline-block;
+  margin-right: 10px;
+  
+  border-right: 1px solid #333;
+  padding-right: 10px; /* تضيف هذا السطر لتفصيلة بين النص والخط */
+}
+
+li.li:last-child {
+  border-right: none; /* تزيل الخط من العنصر الأخير في القائمة */
+}
+  

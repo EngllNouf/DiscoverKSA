@@ -1,0 +1,60 @@
+ 
+.ul_nav {
+  background-color: rgba(207, 185, 157, 0.784);
+  list-style: none;
+  display: flex;
+}
+
+.li_nav {
+  padding: 10px;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: larger;
+}
+
+.li_nav{
+ 
+  border-right: 1px solid black;
+  margin-left: 10px;
+}
+
+a {
+  text-decoration: none;
+}
+
+
+
+.jeddah{
+    display: flex;
+     background-color: rgba(219, 213, 205, 0.796);
+    justify-content:center;
+    justify-content:space-around
+ 
+ }
+ 
+ 
+ .j{
+
+    background-color: rgba(255, 255, 255, 0.416);
+   
+    border-color: rgb(136, 136, 153);
+    border-radius: 100px;
+    margin: 50px;
+    padding: 40px;
+ 
+ 
+ }
+
+ .desgin_image_of_city_walk{
+    margin-left: 30px;
+ }
+
+ .btn-more{
+    background-color: rgba(157, 159, 102, 0.555);
+    padding: 10px;
+    border-radius: 10px;
+    margin: 100px;
+ }
+
+a{
+    color: rgb(93, 56, 1);
+}
